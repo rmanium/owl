@@ -1,4 +1,4 @@
-# Next.js example
+# Next.js Boilerplate with Context API and Material UI
 
 ## How to use
 
